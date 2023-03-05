@@ -12,4 +12,4 @@
 <li>Python 3.x</li>
 </ul>
 <h2>License</h2>
-<p>This project is licensed under the MIT License - see the <a href="https://chat.openai.com/LICENSE" target="_new">LICENSE</a> file for details.</p>
+<p>This project is licensed under the MIT License - see the <a href="https://github.com/ethanabraham-xi/Word-to-Folder-Converter/blob/main/LICENSE" target="_new">LICENSE</a> file for details.</p>
